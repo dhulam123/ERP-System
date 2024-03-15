@@ -36,7 +36,7 @@ export const allProducts = [
   },
   {
     id: 6,
-    name: "Power Bank",
+    name: "Power Banknpm run de",
     category: "Electronics",
     price: 500000,
     stock: 50,

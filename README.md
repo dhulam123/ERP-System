@@ -46,54 +46,50 @@ http://localhost:5173/
 
 1) Dashboard Overview
 
-  ![image](https://github.com/dhulam123/demo/assets/93127690/0ee55147-e9d8-4f13-84c9-82619f5c6e89)
+![Dashboard](https://github.com/dhulam123/ERP-System/assets/93127690/3a2bbe68-a805-4735-b9e4-1422f236fc79)
 
 
 2) Products Page
 
-  ![image](https://github.com/dhulam123/demo/assets/93127690/d3090f1f-7133-41dd-86d7-719466f843fc)
+![Product Page](https://github.com/dhulam123/ERP-System/assets/93127690/1934aebf-0232-4876-b9e0-d9f1250fb917)
 
 
 3) Add New Product
 
-  ![image](https://github.com/dhulam123/demo/assets/93127690/734b5ec0-f1ee-4214-aee3-eb6637882c4e)
+![Add new Product](https://github.com/dhulam123/ERP-System/assets/93127690/424e73ec-fd36-4f29-a1f7-89de6d2a6d35)
 
 
 4) After adding new Product
 
-  ![image](https://github.com/dhulam123/demo/assets/93127690/8a52327b-8228-4907-b601-349167e84245)
+![After Adding Product](https://github.com/dhulam123/ERP-System/assets/93127690/b19f0b1b-b309-4b65-bef5-7a8906df51c6)
 
 
 5) Edit Product Details
 
-  ![image](https://github.com/dhulam123/demo/assets/93127690/749aaa4a-cb68-4ddd-b981-9c5d38bf5cda)
+![Edit Product](https://github.com/dhulam123/ERP-System/assets/93127690/ab0a1953-7a3d-4ce1-a87d-9b12746b9689)
 
 
 6) After deleting last product ID
 
-  ![image](https://github.com/dhulam123/demo/assets/93127690/89a03a53-db7f-4a74-9bb8-21b7166b9269)
+![Delete Last Product ID](https://github.com/dhulam123/ERP-System/assets/93127690/2838e0e8-b7fb-49bb-91b3-7ef2f03cbbd0)
 
 
 7) Orders Page
 
-![image](https://github.com/dhulam123/demo/assets/93127690/28c52239-ea67-41c0-b494-36d8b4c5b33d)
+![Order Page](https://github.com/dhulam123/ERP-System/assets/93127690/6b25057b-3a37-407e-bc8a-f56c648db806)
 
 
 8) View Order Details 
 
-![image](https://github.com/dhulam123/demo/assets/93127690/ae61ff07-7dce-4d42-833f-5845c523d2e8)
+![view order detail](https://github.com/dhulam123/ERP-System/assets/93127690/d55cbdbb-a328-4777-acfb-abd0cc90da06)
 
 
 9)  Change Order Status
 
-![image](https://github.com/dhulam123/demo/assets/93127690/8fde418c-8b74-4ba0-ba70-38c5ab867c7a)
+![change status](https://github.com/dhulam123/ERP-System/assets/93127690/b15a4031-2102-4b61-bffd-34e4d3ee424f)
 
 
-10)  Delete Order ID ORD010
+10)  Delete Order ID ORD012
 
-![image](https://github.com/dhulam123/demo/assets/93127690/75b1983d-b360-4a34-9ddb-e771f46d798f)
-
-
-
- 
+![delete order](https://github.com/dhulam123/ERP-System/assets/93127690/95c13720-c602-460b-94a4-fb8fec73abe2)
 
